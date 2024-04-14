@@ -2,7 +2,4 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Capture](https://github.com/Nilupul6/Frontend-Movie-Project-with-Authentication-using-react-Firebase/assets/152468856/38360e74-1c7e-4a8b-a13d-4d56ea02cb04)
